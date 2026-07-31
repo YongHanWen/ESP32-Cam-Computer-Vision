@@ -15,7 +15,7 @@ ESP32-Cam-Computer-Vision/
 ├── Docs/
 │   └── Computer_Vision_workshop_slides_2025.pdf
 ├── Training Data/
-│   ├── Images of Yellow Ball (Extra)/
+│   ├── Images of Yellow Ball/
 │   └── Images of Yellow Ball with Maze/
 ├── LICENSE
 └── README.md
